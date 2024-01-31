@@ -20,3 +20,6 @@ Amazon is an American multinational technology company focusing on e-commerce, c
     - Enter your login credentials then Login inputs are analyzed and verified as per the baseline document
 
     - Once the Login credentials are validated, the user will enter the amazon home page and the end user can select an item from the category and input a search item and click on the magnifier button.
+
+
+![alt text]()
