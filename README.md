@@ -4,6 +4,9 @@
 
 
 <h1 align="center"> Amazon Web Testing Automation </h1>
+
+<h5 align="right">on Katalon Studio v9</h5>
+
 <h5 align="right">- by Sobhan Shreeraj Sa </h5>
 
 
