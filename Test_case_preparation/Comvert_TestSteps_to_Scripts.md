@@ -8,4 +8,4 @@ Once the requirements are comprehensively understood, the next step in test case
 
 <h5>Amazon Login Test Case : </h5>
 
-![alt text]()
+![alt text](Test_case_preparation/screenshots/Amazon_Login_TestCase_001.png)
