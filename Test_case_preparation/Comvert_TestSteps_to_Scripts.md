@@ -4,7 +4,7 @@ Once the requirements are comprehensively understood, the next step in test case
 
 <h5>Creating Test Cases : </h5>
 
-![alt text](Test_case_preparation/screenshots/Created_TestCase_Image.png)
+![alt text](Test_case_preparation/Created_TestCase_Image.png)
 
 <h5>Amazon Login Test Case : </h5>
 
