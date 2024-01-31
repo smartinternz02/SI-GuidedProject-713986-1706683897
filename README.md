@@ -22,4 +22,6 @@ Amazon is an American multinational technology company focusing on e-commerce, c
     - Once the Login credentials are validated, the user will enter the amazon home page and the end user can select an item from the category and input a search item and click on the magnifier button.
 
 <h4>Project Structure : </h4>
+
+
 ![alt text](image.png)
